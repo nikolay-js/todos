@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ToDoInput /> renders the component without changes 1`] = `<ToDos />`;

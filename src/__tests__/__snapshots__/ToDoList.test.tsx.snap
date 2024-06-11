@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ToDoList /> renders the component without changes 1`] = `
+<ContextProvider
+  value={
+    {
+      "state": {
+        "filter": "",
+        "taskText": "",
+        "tasks": [
+          {
+            "id": 1,
+            "isCompleted": true,
+            "text": "new task",
+          },
+          {
+            "id": 2,
+            "isCompleted": false,
+            "text": "new task2",
+          },
+        ],
+      },
+    }
+  }
+>
+  <ToDos />
+</ContextProvider>
+`;

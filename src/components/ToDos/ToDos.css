@@ -1,0 +1,15 @@
+.todo-wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2),
+              0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}
+
+.todo__title {
+  font-size: 100px;
+  text-align: center;
+  font-weight: 300;
+  color: rgba(175, 47, 47, 0.15);
+}
